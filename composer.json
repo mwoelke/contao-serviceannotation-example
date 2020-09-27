@@ -1,7 +1,6 @@
 {
     "name": "mwoelke/example-serviceannotation-bundle",
     "type": "contao-bundle",
-    "description": "Slug Generator",
     "license": "LGPL-2.1-or-later",
     "require": {
         "php": "^7.2"
