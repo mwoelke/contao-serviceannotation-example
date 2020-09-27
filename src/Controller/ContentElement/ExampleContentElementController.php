@@ -12,7 +12,7 @@ use Symfony\Component\HttpFoundation\Response;
 /**
  * @ContentElement(category="texts")
  */
-class MyContentElementController extends AbstractContentElementController
+class ExampleContentElementController extends AbstractContentElementController
 {
     protected function getResponse(Template $template, ContentModel $model, Request $request): ?Response
     {        

@@ -1,4 +1,6 @@
 services:
+    #MWoelke\ExampleServiceAnnotationBundle\Controller\ContentElement\ExampleContentElementController:
+    #    tags: ['terminal42_service_annotation']
     _defaults:
         autoconfigure: true 
         autowire: true
