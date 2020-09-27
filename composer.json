@@ -4,7 +4,10 @@
     "description": "Slug Generator",
     "license": "LGPL-2.1-or-later",
     "require": {
-        "php": "^7.2",
+        "php": "^7.2"
+    },
+    "extra": {
+        "contao-manager-plugin": "MWoelke\\ExampleServiceAnnotationBundle\\ContaoManager\\Plugin"
     },
     "autoload": {
         "psr-4": {
