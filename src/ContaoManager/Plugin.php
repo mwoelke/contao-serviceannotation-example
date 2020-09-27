@@ -1,6 +1,6 @@
 <?php
 
-namespace MWoelke\ExampleServiceAnnotationBundle;
+namespace MWoelke\ExampleServiceAnnotationBundle\ContaoManager;
 
 use Contao\CoreBundle\ContaoCoreBundle;
 use Contao\ManagerPlugin\Bundle\BundlePluginInterface;
