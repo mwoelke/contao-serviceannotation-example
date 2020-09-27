@@ -1,5 +1,7 @@
 <?php
 
+namespace MWoelke\ExampleServiceAnnotationBundle\Controller\ContentElement;
+
 use Contao\ContentModel;
 use Contao\CoreBundle\Controller\ContentElement\AbstractContentElementController;
 use Contao\CoreBundle\ServiceAnnotation\ContentElement;
